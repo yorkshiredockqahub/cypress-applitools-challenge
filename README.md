@@ -1,12 +1,12 @@
 # cypress-applitools-challenge
 Jollof Challenge for Cypress and Applitools
 
-Situation: Jollof Challenge
+Situation:
   I want to setup Cypress with Applitools
 
 Action:
-  Stand up a New Cypress Framework with VSC
-  :Do Functional UI Validation with Cypress Assertions
+  Stand up Cypress Framework with VSC
+  :Do Functional UI Validation with Cypress Assertion
   :Do Visual UI Validation with Applitools
 
 Result:
