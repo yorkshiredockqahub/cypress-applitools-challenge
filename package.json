@@ -1,0 +1,15 @@
+{
+  "name": "jollof",
+  "version": "1.0.0",
+  "description": "Jollof Challenge with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Duduosun",
+  "license": "ISC",
+  "dependencies": {
+    "@applitools/eyes-cypress": "^3.8.18",
+    "cypress": "^3.6.0"
+  }
+}
