@@ -6,8 +6,10 @@ Situation:
 
 Action:
   Stand up Cypress Framework with VSC
-  :Do Functional UI Validation with Cypress Assertion
-  :Do Visual UI Validation with Applitools
+  
+  Do Functional UI Validation with Cypress Assertion
+  
+  Do Visual UI Validation with Applitools
 
 Result:
   yorkshiredockqahub/cypress-applitools-challenge
